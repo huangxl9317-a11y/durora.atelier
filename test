@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Durora Atelier - 法式軟裝設計工作室</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 導覽列 -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h1>DURORA ATELIER</h1>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item"><a href="#home" class="nav-link">首頁</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">關於</a></li>
+                <li class="nav-item"><a href="#portfolio" class="nav-link">作品集</a></li>
+                <li class="nav-item"><a href="#contact" class="nav-link">聯絡</a></li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 首頁區域 -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">法式生活美學</h1>
+            <p class="hero-subtitle">精緻軟裝設計 × 歐洲進口織品</p>
+            <p class="hero-description">我們相信，生活的藝術在於細節的品味與空間的詩意</p>
+            <a href="#portfolio" class="cta-button">探索作品</a>
+        </div>
+        <div class="hero-image">
+            <div class="placeholder-image">法式空間美學</div>
+        </div>
+    </section>
+
+    <!-- 關於我區域 -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">關於 Durora</h2>
+                <div class="title-line"></div>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <h3>溫暖內斂的法式美學</h3>
+                    <p>Durora Atelier 致力於將法式生活的優雅與溫暖帶入每個空間。我們專精於軟裝設計，精選來自歐洲的頂級織品與家飾，為追求生活品質的您創造獨特的居住體驗。</p>
+                    <p>每一個抱枕、每一塊窗簾布料，都承載著我們對美好生活的理解。我們相信，真正的奢華不在於張揚，而在於細節中流露的品味與溫度。</p>
+                    <div class="about-highlights">
+                        <div class="highlight-item">
+                            <h4>專業軟裝設計</h4>
+                            <p>量身打造的空間美學方案</p>
+                        </div>
+                        <div class="highlight-
